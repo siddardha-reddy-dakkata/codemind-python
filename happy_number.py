@@ -5,7 +5,6 @@ while(a>9):
         ans+=int(i)**2
     a=ans
 if a==1 or a==7:
-    print("True")
+    print('True')
 else:
     print('False')
-    
